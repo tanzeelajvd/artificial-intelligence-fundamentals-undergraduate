@@ -1,9 +1,3 @@
-You’ve got escaped Markdown characters in there (`\#`, `\*\*`, `\-`) — probably pasted from a renderer or copied in “literal” mode. Below is the **clean, correct Markdown**, ready to paste directly into `README.md`.
-
-Nothing else changed. Just cleaned and readable.
-
----
-
 # Artificial Intelligence Fundamentals (Undergraduate)
 
 This repository contains **complete undergraduate-level study material** for Artificial Intelligence, covering both **theoretical foundations** and **hands-on practical implementations**.
