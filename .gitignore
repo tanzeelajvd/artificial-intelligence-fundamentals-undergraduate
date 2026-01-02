@@ -1,14 +1,13 @@
-# Python
+
+.ipynb_checkpoints/
 __pycache__/
 *.pyc
-
-# Jupyter
-.ipynb_checkpoints/
-
-# OS files
+.env
 .DS_Store
+*Zone.Identifier
+.venv
+data/raw/
+data/temp/
 Thumbs.db
-
-# Editor
 .vscode/
 .idea/
